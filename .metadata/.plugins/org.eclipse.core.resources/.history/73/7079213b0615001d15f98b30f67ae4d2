@@ -1,0 +1,5 @@
+package com.loja.games.model;
+
+public class Categoria {
+
+}
